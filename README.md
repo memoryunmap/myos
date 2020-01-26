@@ -1,2 +1,2 @@
 # myos
-Simple OS writen on Rust
+Simple OS writen on C
